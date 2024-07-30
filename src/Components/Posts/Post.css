@@ -1,0 +1,13 @@
+.post{
+    display: grid;
+    gap:10px;
+    grid-template-columns: repeat(3,1fr);
+   
+}
+
+.singlePost{
+    border: 2px solid green;
+        border-radius: 20px;
+        background-color: lightblue;
+        padding: 5px;
+}

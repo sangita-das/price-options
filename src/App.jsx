@@ -6,6 +6,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Phones from './Components/Phones/Phones.jsx'
 import PriceOptions from './Components/PriceOptions/PriceOptions'
 
+
 function App() {
  
 

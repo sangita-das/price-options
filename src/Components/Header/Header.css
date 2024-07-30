@@ -1,0 +1,13 @@
+nav a {
+    margin-right: 40px;
+    margin-left: 50px;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+
+nav a.active{
+    text-decoration: underline;
+    color: peru;
+    background-color: aquamarine;
+}
